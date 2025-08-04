@@ -97,6 +97,7 @@ Cada módulo inclui:
 ## 📚 Fontes Oficiais
 
 - 📘 [LPI Linux Essentials](https://learning.lpi.org/pt/learning-materials/010-160/)
+- 📖 [Guia Foca GNU/Linux](https://www.guiafoca.org/) – Guia brasileiro completo (nível básico ao avançado)
 - 📖 [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.html)
 - 📂 [FHS - Filesystem Hierarchy Standard](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html)
 - 🧾 [man7 Linux man pages](https://man7.org/linux/man-pages/)
