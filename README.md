@@ -1,6 +1,6 @@
 # 🐧 Linux na Prática: Do Básico ao Poder do Terminal
 
-Este é um curso completo de introdução ao Linux, baseado no conteúdo oficial do [Linux Professional Institute (LPI)](https://learning.lpi.org/pt/learning-materials/010-160/), com foco em prática real, terminal e preparação para certificações.
+Este é um treinamento completo de introdução ao Linux, baseado no conteúdo oficial do [Linux Professional Institute (LPI)](https://learning.lpi.org/pt/learning-materials/010-160/), com foco em prática real, terminal e preparação para certificações.
 
 ---
 
